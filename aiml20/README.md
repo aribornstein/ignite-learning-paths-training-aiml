@@ -22,23 +22,28 @@ code.
 ## Assets in Train-The-Trainer kit
 
 - This guide
-- [PowerPoint presentation](https://#) and [Speaker notes](speaker-notes.md)
-- [Demo Instructions](demos/demo-instructions.md)
-- [Full-length recording of presentation](https://msit.microsoftstream.com/video/402302a7-a504-473c-81f3-ee226506f62b) (Dry Run 4 recording)
-- [Full-length recording of presentation - Director Cut]()
+- [PowerPoint presentation](https://globaleventcdn.blob.core.windows.net/assets/aiml/aiml20/AIML20_UsingPre-BuiltAItoSolveBusinessChallenges.pptx) and [Speaker notes](speaker-notes.md)
+- [Demo Instructions](demo-instructions.md)
+- [Full-length recording of presentation](https://youtu.be/LobVQJb951k) (Presenter 2)
+- [Full-length recording of presentation - Director Cut](https://youtu.be/34HtSxcK1Yg)
 
-### Dry Run 4 recording marks:
+### Director's cut recording marks:
 
-- 01:02 intro
-- 04:10 deleted content
-- 07:20 overview of Azure Cognitive Services
-- 09:30 Shop by Photo and Computer Vision
-- 20:50 Demo: Cognitive Services and Computer Vision
-- 28:50 Transfer Learning and Custom Vision (deleted content 37:50 – 40:05)
-- 44:05 Personalizer
-- 49:30 AI in Production and Cognitive Services Containers
-- 55:45 end
+(This is an older version of the presentation and demos.)
 
+- 06:30 overview of Azure Cognitive Services
+
+- 08:42 Shop by Photo and Computer Vision
+
+- 19:53 Demo: Cognitive Services and Computer Vision
+
+- 27:56 Transfer Learning and Custom Vision (deleted content 37:50 – 40:05)
+
+- 39:55 Personalizer
+
+- 44:1 AI in Production and Cognitive Services Containers
+
+- 49:59 end
 
 ## Become a Presenter
 
@@ -61,14 +66,14 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
 <tr>
     <td align="center"><a href="">
-        <img src="" width="100px;" alt="David Smith"/><br />
-        <sub><b>Presenter 1</b></sub></a><br />
+        <img src="https://avatars0.githubusercontent.com/u/152948?s=460&v=4" width="100px;" alt="David Smith"/><br />
+        <sub><b>David Smith</b></sub></a><br />
             <a href="https://github.com/neilpeterson/ignite-tour-fy20/commits?author=fboucher" title="talk">📢</a>
             <a href="https://github.com/neilpeterson/ignite-tour-fy20/commits?author=fboucher" title="Documentation">📖</a> 
     </td>
     <td align="center"><a href="">
-        <img src="" width="100px;" alt="Presenter 2"/><br />
-        <sub><b>Presenter 2</b></sub></a><br />
+        <img src="https://avatars2.githubusercontent.com/u/4598064?s=460&v=4" width="100px;" alt="Chris Noring"/><br />
+        <sub><b>Chris Noring</b></sub></a><br />
             <a href="https://github.com/neilpeterson/ignite-tour-fy20/commits?author=neilpeterson" title="talk">🎨</a>
             <a href="https://github.com/neilpeterson/ignite-tour-fy20/commits?author=neilpeterson" title="design">📖</a> 
     </td>
